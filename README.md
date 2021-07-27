@@ -25,6 +25,9 @@
 <a href="https://angular.io" target="_blank">
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
 </a>
+<a href="https://nx.dev" target="_blank">
+  <img src="https://miro.medium.com/max/1048/0*pYqcf7guMX53mXQx.png" alt="angular" width="50" height="30"/>
+</a>
 <a href="https://www.cypress.io" target="_blank">
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/>
 </a>
