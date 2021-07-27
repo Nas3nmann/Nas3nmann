@@ -3,6 +3,8 @@
 
 <h2>Latest blogs posts:</h2>
 <!-- BLOG-POST-LIST:START -->
+- [Automatically sync url path and query params with Angular component fields](https://dev.to/juliandierkes/automatically-sync-url-path-and-query-params-with-angular-component-fields-1eif)
+- [I built yesno.](https://dev.to/juliandierkes/i-built-yesno-5k5)
 <!-- BLOG-POST-LIST:END -->
 
 <h2 align="left">Find me on:</h2>
