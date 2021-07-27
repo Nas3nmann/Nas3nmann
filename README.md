@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Julian!</h1>
 <p align="center">I'm a fullstack dev with focus on frontend development in Angular.</p>
 
-<h2>Latest blogs posts:</h2>
+## Latest blogs posts:
 <!-- BLOG-POST-LIST:START -->
 - [Automatically sync url path and query params with Angular component fields](https://dev.to/juliandierkes/automatically-sync-url-path-and-query-params-with-angular-component-fields-1eif)
 - [I built yesno.](https://dev.to/juliandierkes/i-built-yesno-5k5)
